@@ -1,14 +1,20 @@
 # AUTOMATED-REPORT-GENERATION
 CodTech Task 2
 
-*COMPANY*: CODTECH IT SOLUTIONS
-*NAME*: DHARSHANA DEVI S
-*INTERN ID*: 
-*DOMAIN*: PYTHON PROGRAMMING
-*DURATION*: 4 WEEKS
+*COMPANY*: CODTECH IT SOLUTIONS,
+
+*NAME*: DHARSHANA DEVI S,
+
+*INTERN ID*: CTIS6407,
+
+*DOMAIN*: PYTHON PROGRAMMING,
+
+*DURATION*: 4 WEEKS,
+
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-*DESCRIPTION OF THE TASK 2 *
+
+#DESCRIPTION OF THE TASK 2 
 
 # 📊 Advanced Automated Report Generator (Python)
 
@@ -156,3 +162,10 @@ The system automatically generates insights such as:
 
 ---
 
+##OUTPUT
+
+[performance_dashboard.pdf](https://github.com/user-attachments/files/25894059/performance_dashboard.pdf)
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/57ad791e-51a7-49fc-9be3-1b9218890dcd" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/461dfc0e-1532-4c3d-8d64-1836a6f8fc84" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/b5063ec5-f9ef-4ae0-8d0f-1fd9903986ce" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/dcb4cd8c-915a-4346-8179-4510bbb0fd93" />
